@@ -8,9 +8,9 @@ For testing this example manually on an app service, do the following in Azure:
 
 * Go to the app service you want to deploy to
 * Click on **Deployment Center**
-* Select *External Git* as the _Source_
-* Fill in the following URL as the _Repository_
+* Select _External Git_ as the __Source__
+* Fill in the following URL as the __Repository__
 ```
-https://github.com/jonakoudijs/azure-app-service-demo.git
+https://github.com/true/azure-app-service-demo.git
 ```
-* Use *main* as the _Branch_
+* Use _main_ as the __Branch__
