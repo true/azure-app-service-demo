@@ -5,5 +5,5 @@ if(getenv("MY_NAME") !== false)
   putenv("MY_NAME=Unknown");
 
 // Return 
-echo 'Hello World!'
+echo 'Hello World!';
 echo 'My name is: ' .$_ENV["MY_NAME"] . '!';
